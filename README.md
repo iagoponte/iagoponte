@@ -9,7 +9,7 @@ I am a former under graduate in Diet and Nutrition and, currently, a programming
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoponte&layout=compact&&theme=dark)
 
-## Tecnologies that i'm familiar with:
+## Technologies that i'm familiar with:
 <!-- Tecnologias as quais estou familiarizado: -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
