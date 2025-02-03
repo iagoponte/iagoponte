@@ -2,7 +2,7 @@
 I am a former under graduate in Diet and Nutrition, and, currently, a programming student at a graduate CTE program. 
 <!-- Sou, atualmente, um estudante de Análise e Desenvolvimento de Sistemas, com formação prévia em nutrição. -->
 
-[![LinkedIn](https://media.licdn.com/dms/image/v2/D4D03AQHUJEoCkVJpcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729262437076?e=1744243200&v=beta&t=ljmgPva_esLhIzfC3X0JmglfzzKWvU38Q9SlbU1Hhd8)]([https://www.linkedin.com/in/iago-ponte/])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/iago-ponte/])
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nutriagoponte/?locale=en-us)
 
 
