@@ -13,6 +13,7 @@ I am a former under graduate in Diet and Nutrition and, currently, a programming
 <!-- Tecnologias as quais estou familiarizado: -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular)
