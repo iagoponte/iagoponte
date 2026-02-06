@@ -5,7 +5,7 @@ I am a former under graduate in Diet and Nutrition and, currently, a programming
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ponte/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoponte&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoponte&layout=compact&theme=dark&cache_seconds=1800)
 
 ## Technologies that i'm familiar with:
 <!-- Tecnologias as quais estou familiarizado: -->
